@@ -1,0 +1,14 @@
+C:\Users\hcafe\OneDrive\Área de Trabalho\exercicio 47\exercicio 47\obj\Debug\net8.0\exercicio 47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcafe\OneDrive\Área de Trabalho\exercicio 47\exercicio 47\obj\Debug\net8.0\exercicio 47.AssemblyInfoInputs.cache
+C:\Users\hcafe\OneDrive\Área de Trabalho\exercicio 47\exercicio 47\obj\Debug\net8.0\exercicio 47.AssemblyInfo.cs
+C:\Users\hcafe\OneDrive\Área de Trabalho\exercicio 47\exercicio 47\obj\Debug\net8.0\exercicio 47.csproj.CoreCompileInputs.cache
+C:\Users\hcafe\OneDrive\Área de Trabalho\exercicio 47\exercicio 47\bin\Debug\net8.0\exercicio 47.exe
+C:\Users\hcafe\OneDrive\Área de Trabalho\exercicio 47\exercicio 47\bin\Debug\net8.0\exercicio 47.deps.json
+C:\Users\hcafe\OneDrive\Área de Trabalho\exercicio 47\exercicio 47\bin\Debug\net8.0\exercicio 47.runtimeconfig.json
+C:\Users\hcafe\OneDrive\Área de Trabalho\exercicio 47\exercicio 47\bin\Debug\net8.0\exercicio 47.dll
+C:\Users\hcafe\OneDrive\Área de Trabalho\exercicio 47\exercicio 47\bin\Debug\net8.0\exercicio 47.pdb
+C:\Users\hcafe\OneDrive\Área de Trabalho\exercicio 47\exercicio 47\obj\Debug\net8.0\exercicio 47.dll
+C:\Users\hcafe\OneDrive\Área de Trabalho\exercicio 47\exercicio 47\obj\Debug\net8.0\refint\exercicio 47.dll
+C:\Users\hcafe\OneDrive\Área de Trabalho\exercicio 47\exercicio 47\obj\Debug\net8.0\exercicio 47.pdb
+C:\Users\hcafe\OneDrive\Área de Trabalho\exercicio 47\exercicio 47\obj\Debug\net8.0\exercicio 47.genruntimeconfig.cache
+C:\Users\hcafe\OneDrive\Área de Trabalho\exercicio 47\exercicio 47\obj\Debug\net8.0\ref\exercicio 47.dll

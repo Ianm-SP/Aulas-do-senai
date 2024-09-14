@@ -1,0 +1,15 @@
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 60\exercicio 60\obj\Debug\net8.0\exercicio 60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 60\exercicio 60\obj\Debug\net8.0\exercicio 60.AssemblyInfoInputs.cache
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 60\exercicio 60\obj\Debug\net8.0\exercicio 60.AssemblyInfo.cs
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 60\exercicio 60\obj\Debug\net8.0\exercicio 60.csproj.CoreCompileInputs.cache
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 60\exercicio 60\obj\Debug\net8.0\exercicio 60.sourcelink.json
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 60\exercicio 60\bin\Debug\net8.0\exercicio 60.exe
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 60\exercicio 60\bin\Debug\net8.0\exercicio 60.deps.json
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 60\exercicio 60\bin\Debug\net8.0\exercicio 60.runtimeconfig.json
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 60\exercicio 60\bin\Debug\net8.0\exercicio 60.dll
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 60\exercicio 60\bin\Debug\net8.0\exercicio 60.pdb
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 60\exercicio 60\obj\Debug\net8.0\exercicio 60.dll
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 60\exercicio 60\obj\Debug\net8.0\refint\exercicio 60.dll
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 60\exercicio 60\obj\Debug\net8.0\exercicio 60.pdb
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 60\exercicio 60\obj\Debug\net8.0\exercicio 60.genruntimeconfig.cache
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 60\exercicio 60\obj\Debug\net8.0\ref\exercicio 60.dll

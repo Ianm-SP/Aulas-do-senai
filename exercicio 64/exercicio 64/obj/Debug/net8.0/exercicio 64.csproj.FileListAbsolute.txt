@@ -1,0 +1,15 @@
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 64\exercicio 64\obj\Debug\net8.0\exercicio 64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 64\exercicio 64\obj\Debug\net8.0\exercicio 64.AssemblyInfoInputs.cache
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 64\exercicio 64\obj\Debug\net8.0\exercicio 64.AssemblyInfo.cs
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 64\exercicio 64\obj\Debug\net8.0\exercicio 64.csproj.CoreCompileInputs.cache
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 64\exercicio 64\obj\Debug\net8.0\exercicio 64.sourcelink.json
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 64\exercicio 64\bin\Debug\net8.0\exercicio 64.exe
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 64\exercicio 64\bin\Debug\net8.0\exercicio 64.deps.json
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 64\exercicio 64\bin\Debug\net8.0\exercicio 64.runtimeconfig.json
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 64\exercicio 64\bin\Debug\net8.0\exercicio 64.dll
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 64\exercicio 64\bin\Debug\net8.0\exercicio 64.pdb
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 64\exercicio 64\obj\Debug\net8.0\exercicio 64.dll
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 64\exercicio 64\obj\Debug\net8.0\refint\exercicio 64.dll
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 64\exercicio 64\obj\Debug\net8.0\exercicio 64.pdb
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 64\exercicio 64\obj\Debug\net8.0\exercicio 64.genruntimeconfig.cache
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 64\exercicio 64\obj\Debug\net8.0\ref\exercicio 64.dll

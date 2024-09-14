@@ -1,0 +1,15 @@
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 43\exercicio 43\bin\Debug\net8.0\exercicio 43.exe
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 43\exercicio 43\bin\Debug\net8.0\exercicio 43.deps.json
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 43\exercicio 43\bin\Debug\net8.0\exercicio 43.runtimeconfig.json
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 43\exercicio 43\bin\Debug\net8.0\exercicio 43.dll
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 43\exercicio 43\bin\Debug\net8.0\exercicio 43.pdb
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 43\exercicio 43\obj\Debug\net8.0\exercicio 43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 43\exercicio 43\obj\Debug\net8.0\exercicio 43.AssemblyInfoInputs.cache
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 43\exercicio 43\obj\Debug\net8.0\exercicio 43.AssemblyInfo.cs
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 43\exercicio 43\obj\Debug\net8.0\exercicio 43.csproj.CoreCompileInputs.cache
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 43\exercicio 43\obj\Debug\net8.0\exercicio 43.sourcelink.json
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 43\exercicio 43\obj\Debug\net8.0\exercicio 43.dll
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 43\exercicio 43\obj\Debug\net8.0\refint\exercicio 43.dll
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 43\exercicio 43\obj\Debug\net8.0\exercicio 43.pdb
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 43\exercicio 43\obj\Debug\net8.0\exercicio 43.genruntimeconfig.cache
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\exercicio 43\exercicio 43\obj\Debug\net8.0\ref\exercicio 43.dll

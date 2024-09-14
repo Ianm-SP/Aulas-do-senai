@@ -1,0 +1,15 @@
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\Exercicio 52\Exercicio 52\bin\Debug\net8.0\Exercicio 52.exe
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\Exercicio 52\Exercicio 52\bin\Debug\net8.0\Exercicio 52.deps.json
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\Exercicio 52\Exercicio 52\bin\Debug\net8.0\Exercicio 52.runtimeconfig.json
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\Exercicio 52\Exercicio 52\bin\Debug\net8.0\Exercicio 52.dll
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\Exercicio 52\Exercicio 52\bin\Debug\net8.0\Exercicio 52.pdb
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\Exercicio 52\Exercicio 52\obj\Debug\net8.0\Exercicio 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\Exercicio 52\Exercicio 52\obj\Debug\net8.0\Exercicio 52.AssemblyInfoInputs.cache
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\Exercicio 52\Exercicio 52\obj\Debug\net8.0\Exercicio 52.AssemblyInfo.cs
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\Exercicio 52\Exercicio 52\obj\Debug\net8.0\Exercicio 52.csproj.CoreCompileInputs.cache
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\Exercicio 52\Exercicio 52\obj\Debug\net8.0\Exercicio 52.sourcelink.json
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\Exercicio 52\Exercicio 52\obj\Debug\net8.0\Exercicio 52.dll
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\Exercicio 52\Exercicio 52\obj\Debug\net8.0\refint\Exercicio 52.dll
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\Exercicio 52\Exercicio 52\obj\Debug\net8.0\Exercicio 52.pdb
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\Exercicio 52\Exercicio 52\obj\Debug\net8.0\Exercicio 52.genruntimeconfig.cache
+C:\Users\hcafe\OneDrive\Área de Trabalho\aula 0909\Exercicio 52\Exercicio 52\obj\Debug\net8.0\ref\Exercicio 52.dll
